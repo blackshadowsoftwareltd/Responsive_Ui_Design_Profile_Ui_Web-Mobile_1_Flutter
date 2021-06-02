@@ -6,9 +6,9 @@ In this video, I am focused on Responsive Profile Ui design. This video for Web 
 ##
 ### Web Screenshots
  
- <img src="screenshots/w1.png" alt="Screenshot 1" width="800" height="300">
- <img src="screenshots/w2.png" alt="Screenshot 2" width="800" height="200">
- <img src="screenshots/w3.png" alt="Screenshot 3" width="800" height="170"> 
+ <img src="screenshots/w1.png" alt="Screenshot 1" width="800" height="250">
+ <img src="screenshots/w2.png" alt="Screenshot 2" width="800" height="180">
+ <img src="screenshots/w3.png" alt="Screenshot 3" width="800" height="150"> 
  
 ##
 ### Mobile Screenshots
