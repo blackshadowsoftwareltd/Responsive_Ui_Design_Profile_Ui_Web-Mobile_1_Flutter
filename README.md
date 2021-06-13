@@ -17,3 +17,5 @@ In this video, I am focused on Responsive Profile Ui design. This video for Web 
    <img src="screenshots/m1.png" alt="Screenshot 1" width="300" height="600">
    <img src="screenshots/m2.png" alt="Screenshot 2" width="300" height="600">
  </div> 
+ 
+### Thanks
